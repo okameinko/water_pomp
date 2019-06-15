@@ -45,6 +45,7 @@ td {
 	background-color: #248;
 	color: #fff;
 	border-style: none;
+	-webkit-appearance: none;
 	/*
 	box-shadow: 2px 2px 3px 1px #6fbb9a;
 	-moz-box-shadow: 2px 2px 3px 1px #6fbb9a;
